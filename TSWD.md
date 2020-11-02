@@ -7,7 +7,7 @@ Hello! I am a second year master's student at CMU with an interest in Data Scien
 
 My contact details:
 1. [My LinkedIn Profile](https://www.linkedin.com/in/eashanchawla/)
-2. Email id: (echawla@andrew.cmu.edu).
+2. Email id: [echawla@andrew.cmu.edu](echawla@andrew.cmu.edu).
 
 ## What I hope to learn 
 I hope that I can learn to think carefully about what visuals I present and how I do it. I hope that this class can teach me how to build visualizations/sketches that help me get the message accross in the most effcient and understandable way possible. To summarize, after completion of the class, I see myself having the following:
