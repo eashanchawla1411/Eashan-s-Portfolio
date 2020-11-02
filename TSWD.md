@@ -3,7 +3,7 @@
 Welcome to my portfolio!
 
 ## About me
-Hello! I am a second year master's student at CMU with an interest in Data Science/ Machine Learning. I have extensive experience in Predictive Analytics, Data Analytics and some experience in Business Intelligence through my work at Ernst and Young, Tesla and through numerous projects at CMU. Please feel free to send me a message on LinkedIn if you would like to learn more. 
+Hello! I am a second year master's student at CMU with an interest in Data Science/ Machine Learning. I have extensive experience in Predictive Analytics, Data Analytics and some experience in Business Intelligence through my work at Ernst and Young, Tesla and through numerous projects at CMU. Please feel free to send me a message on LinkedIn if you would like to learn more. \b
 [My LinkedIn Profile](https://www.linkedin.com/in/eashanchawla/)
 You can also send me an email on this id: (echawla@andrew.cmu.edu).
 
