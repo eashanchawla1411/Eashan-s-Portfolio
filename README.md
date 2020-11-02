@@ -1,28 +1,15 @@
-# Eashan Chawla's Portfolio
+# Eashan Chawla's Portfolio for Telling Stories with Data
 
-Welcome to my public portfolio!
+Welcome to my portfolio!
 
 ## About me
-Hello! I am a second year master's student at CMU with an interest in Data Science/ Machine Learning. I have extensive experience in Predictive Analytics and Business Intelligence through my work at Ernst and Young, Tesla and through projects at CMU. 
+Hello! I am a second year master's student at CMU with an interest in Data Science/ Machine Learning. I have extensive experience in Predictive Analytics and Business Intelligence through my work at Ernst and Young, Tesla and through numerous projects at CMU.
 
-## Education
-- Master of Information Systems Management, Carnegie Mellon University      (Aug 2019 - Present)
-- B.E, Computer Engineering, University of Mumbai   (May 2014 - May 2018)
+## What I hope to learn 
+I hope that I can learn to think carefully about what visuals I present and how I do it. I hope that this class can teach me how to build visualizations/sketches that help me get the message accross in the most effcient and understandable way possible.
 
-## Work Experience
-- Tesla
-- Ernst and Young
-- Reliance Jio Infocomm
+## Portfolio
+Here's where all my cool visualizations will go.
 
-## Previous Projects
-- Price Prediction using Text Mining
-- Customer Lifetime Value Analytics
-- Analysis of Popular ML Papers
-- Retweet prediction during COVID-19
-
-## Telling Stories with Data
-
-This is a [link](TSWD.md) to my portfolio for the Telling Stories with Data class at CMU. 
-
-## Link to my resume
-[Eashan's Resume](https://drive.google.com/file/d/1mN394omLjMwvNVrVLQQoujX4W3adeRH2/view?usp=sharing)
+## Go back to main page
+Click [here](README.md) to back to the home page of my portfolio.
