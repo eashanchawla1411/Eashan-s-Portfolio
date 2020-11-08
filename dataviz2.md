@@ -8,19 +8,19 @@
 
 In the next section, I visualized the same data, but in a different way. 
 
-### Part 2: Visualizing the same data using Flourish
+### Part 2: Visualizing the same data using [Flourish](flourish.studio)
 
-**I visualized the same data using [Flourish](flourish.studio).**
+**Iteration 1:**
+
+The first iteration shows a grid line of charts with one time series chart for each country. However, here, it's difficult to compare the ratios for all countries at a glance. 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4276039"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 
-### Part 3: Visualizing the same data using Flourish
-
 **I visualized the same data using [Flourish](flourish.studio).**
 Here, I tried multiple types of visualizations, each of which had their own pros and cons. 
 
-**Iteration 1:** 
+**Iteration 2:** 
 
 In the first iteration, I created a bar chart with a filter for year. This would allow someone to understand the Debt to GDP ratio for different countries (for a particular year). The data was ordered in descending order to draw attention to high values of debt to GDP ratio. Ideally, I would have wanted to have a sequential color scheme throughout the bars, with darker colors indicating higher ratio values and lighter colors indicating low values. But, this was not possible to achieve in Flourish.  
 
@@ -28,12 +28,14 @@ In the first iteration, I created a bar chart with a filter for year. This would
 
 This iteration allows a user to filter on the year and compare the values for different countries together. Due to the presence of multiple columns/ bars, a certain shimmer effect is created that can be distracting. 
 
-**Iteration 2:**
+**Iteration 3:**
 
 In this iteration, giving a filter for countries instead of year allowed for the creation of a time series graph (one for each country). 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280878"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The idea was initially to have multiple lines indicating various countries in grey, and one country in color (the one that is selected). But, Flourish didn't allow me to do that. 
+
+### Part 3: Visualizing the same data using Tableau
 
 ##### [Back](TSWD.md)
