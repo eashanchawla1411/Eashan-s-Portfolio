@@ -22,6 +22,7 @@ Here, I tried multiple types of visualizations, each of which had their own pros
 
 **Iteration 1:** 
 
+In the first iteration, I created a bar chart with a filter for year. This would allow someone to understand the Debt to GDP ratio for different countries (for a particular year). The data was ordered in descending order to draw attention to high values of debt to GDP ratio. Ideally, I would have wanted to have a sequential color scheme throughout the bars, with darker colors indicating higher ratio values and lighter colors indicating low values. But, this was not possible to achieve in Flourish.  
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
