@@ -22,6 +22,7 @@ Here, I tried multiple types of visualizations, each of which had their own pros
 
 **Iteration 1:** 
 
+
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 This iteration allows a user to filter on the year and compare the values for different countries together. Due to the presence of multiple columns/ bars, a certain shimmer effect is created that can be distracting. 
@@ -29,6 +30,7 @@ This iteration allows a user to filter on the year and compare the values for di
 **Iteration 2:**
 
 In this iteration, giving a filter for countries instead of year allowed for the creation of a time series graph (one for each country). 
+
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280878"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
