@@ -20,10 +20,12 @@ In the next section, I visualized the same data, but in a different way.
 **I visualized the same data using [Flourish](flourish.studio).**
 Here, I tried multiple types of visualizations, each of which had their own pros and cons. 
 
-1. Iteration 1: 
+**Iteration 1:** 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
-2. Iteration 2:
+This iteration allows a user to filter on the year and compare the values for different countries together. Due to the presence of multiple columns/ bars, a certain shimmer effect is created that can be distracting. 
+
+**Iteration 2:**
 
 
 
