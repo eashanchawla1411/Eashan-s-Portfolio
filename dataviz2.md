@@ -38,4 +38,7 @@ The idea was initially to have multiple lines indicating various countries in gr
 
 ### Part 3: Visualizing the same data using Tableau
 
+In this part, we will visualize the same data using Tableau. 
+
+
 ##### [Back](TSWD.md)
