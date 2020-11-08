@@ -31,7 +31,6 @@ This iteration allows a user to filter on the year and compare the values for di
 
 In this iteration, giving a filter for countries instead of year allowed for the creation of a time series graph (one for each country). 
 
-
 <div class="flourish-embed flourish-chart" data-src="visualisation/4280878"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
 The idea was initially to have multiple lines indicating various countries in grey, and one country in color (the one that is selected). But, Flourish didn't allow me to do that. 
