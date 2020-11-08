@@ -14,4 +14,18 @@ In the next section, I visualized the same data, but in a different way.
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/4276039"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
 
+
+### Part 3: Visualizing the same data using Flourish
+
+**I visualized the same data using [Flourish](flourish.studio).**
+Here, I tried multiple types of visualizations, each of which had their own pros and cons. 
+
+1. Iteration 1: 
+<div class="flourish-embed flourish-chart" data-src="visualisation/4280910"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+2. Iteration 2:
+
+
+
+
 ##### [Back](TSWD.md)
