@@ -44,7 +44,7 @@ The idea was initially to have multiple lines indicating various countries in gr
 
 In this part, we will visualize the same data using Tableau. Here, I tried creating a sort of beeswarm plot/ heatmap, showing the same data in the easiest way possible. I chose this visual since it is very easy to understand by a quick glance, and the presence of diverging colors indicating a high / low ratio also help. 
 
-<iframe src="https://public.tableau.com/views/DebttoGDPRatio/Year-over-YearDebttoGDPRatio?:showVizHome=no&:embed=true" width="90%" height="500" seamless frameborder="0" scrolling="no"></iframe>
+<iframe src="https://public.tableau.com/views/DebttoGDPRatio/Year-over-YearDebttoGDPRatio?:showVizHome=no&:embed=true" width="100%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
 
 
