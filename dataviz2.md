@@ -46,8 +46,4 @@ In this part, we will visualize the same data using Tableau. Here, I tried creat
 
 <iframe src="https://public.tableau.com/views/DebttoGDPRatio/Year-over-YearDebttoGDPRatio?:showVizHome=no&:embed=true" width="100%" height="500" seamless frameborder="0" scrolling="no"></iframe>
 
-
-
-However, after trying to embed the code multiple times, I kept running into the issues. Despite that, I have attached the emedding code that I got from Tableau Public for my visual. 
-
 ##### [Back](TSWD.md)
