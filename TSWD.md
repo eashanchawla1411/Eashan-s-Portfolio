@@ -19,7 +19,7 @@ I hope that I can learn to think carefully about what visuals I present and how 
 Here's where all my cool visualizations will go. Click on the assignment you want to view, in order to be redirected to it's respective page.
 
 #### 1. [Assignment 2](dataviz2.md)
-
+#### 2. [Assignment 3](dataviz3.md)
 
 ## Go back to main page
 Click [here](README.md) to back to the home page of my portfolio.
