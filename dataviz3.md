@@ -20,5 +20,5 @@ In my opionion, the following things don't work / can be improved upon in this v
 
 I created an initital wireframe of my solution, which was a simple pen and paper sketch, as shown below:
 
-[Wireframe](/Images/Wireframe.jpeg)
+![Wireframe](/Images/Wireframe.jpeg)
 
