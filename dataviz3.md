@@ -4,6 +4,6 @@ I decided to critique and redesign the visual on the following link: [Dropout Ra
 
 The initial visual is shown below:
 
-![Img1](/Images/img1.jpg)
+![Img1](/Images/Img1.png)
 
-![Img2](/Images/img2.jpg)
+![Img2](/Images/Img2.png)
