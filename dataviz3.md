@@ -2,6 +2,8 @@
 
 I decided to critique and redesign the visual on the following link: [Dropout Rate in India](https://data.gov.in/major-indicator/drop-out-rate)
 
+I chose this visual because I feel that education is one of the most important factors that decide the success of a country / people in the country. Education is one of the most basic and important rights and every human has a right to education. Despite this, there is a high amount of illiteracy in a heavily populated country such as India. Redesigning this visual in a way that lawmakers can make better decisions would help the general public and citizens of India.
+
 The initial visual is shown below:
 
 ![Img1](/Images/Img1.PNG)
@@ -41,3 +43,6 @@ Answers to other questions that I asked:
 - User 2 thought that it might be interesting if we could show data on where the kids were coming from i.e. from rural or urban areas. That might help the viewers better understand the reasons behind dropout rates. Unfortunately, the dataset available did not have that information. 
 
 Based on the feedback provided by the 2 users, I moved on to change my visual accordingly. 
+
+### Building my solution
+
