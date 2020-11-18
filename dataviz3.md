@@ -28,5 +28,16 @@ Each dot in the statewise visuals represents the drop out rate of one state in I
 
 **Upper primary schools** are schools with kids of ages 11 and 12, whereas **Primary schools** have kids with ages between 6 and 10. 
 
+### Testing the solution
 
+I got feedback from 2 people on my wireframe/sketch, each of which made me realize different things that I could improve with my visual:
+1. User 1 indicated that it would be more useful in terms of understanding to place the textbox (originally present in the middle of the dashboard / sketch) to the top, making it one of the first things we see. 
+2. Users 1 and 2 indicated that it was really difficult to understand what the 2 statewise visuals were depicting and they indicated that they would definitely change the type of visual and use something else like something similar to a bee swarm / heat map plot. 
+3. User 2 also indicated that it would be helpful to see what grades exactly made up the primary and upper primary schools. 
 
+Answers to other questions that I asked:
+- Both users were able to identify that the plot was aimed towards the general public and policy makers looking to identify states where improvements could be made to the schooling. 
+- Both users were able to understand the meaning of the visuals and the interpretation being derived from them. 
+- User 2 thought that it might be interesting if we could show data on where the kids were coming from i.e. from rural or urban areas. That might help the viewers better understand the reasons behind dropout rates. Unfortunately, the dataset available did not have that information. 
+
+Based on the feedback provided by the 2 users, I moved on to change my visual accordingly. 
