@@ -46,3 +46,10 @@ Based on the feedback provided by the 2 users, I moved on to change my visual ac
 
 ### Building my solution
 
+Based on the feedback received, I made the following changes:
+1. I brought the text box at the top of the dashboard
+2. Changed the type of visual for the statewise dropout rates to a heatmap sort of a plot, which not only puts our focus on the top values but also allows us to quickly understand the visual. 
+3. I tried to maintain the color scheme through the dashboard, where the primary schools are represented by blue and and the upper primary are represented by orange. 
+
+My dashboard is attached below:
+
