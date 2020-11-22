@@ -6,6 +6,8 @@
 **High Level Summary of the Project:**
 In 2019, article 370 was repealed in Kashmir, that gave Kashmir special powers like having it's own flag, it's own constitution. This gave the Indian central government more control over Jammu & Kashmir (a highly disputed region between India and Pakistan). With this project, I hope to explain the article, and the impact of it's abrogation on the people of Kashmir, by addressing impact on Economy, Stress and Psychological Conditions, Education etc. 
 
+The call to action here would be 
+
 **Project Structure / Story Arc:**
 Following will be the structure of the project: 
 1. Timeline showing the history of Kashmir
@@ -18,6 +20,7 @@ Following will be the structure of the project:
     b. Negative Impact on the economy
     c. Negative Impact on Education
     d. Negative Impact on Mental Conditions of people in J&K. 
+7. Call to action
 
 ### Sketches :
 
@@ -47,4 +50,6 @@ I also plan to refer to the following articles to make explainations / present i
 
 
 ### Method and Medium :
-I plan on using shorthand for the purposes of this project. 
+I plan on using shorthand for the purposes of this project. I plan to use all the articles that I have highlighted in the section above to add pictures and statistics about the conditions in Kashmir. 
+
+This will serve as a good place with information and images that educate people about what the people of Jammu & Kashmir go through every day. Through the call to action (highlighted above), the users will also be able to contribute to the cause. 
