@@ -27,7 +27,16 @@ Following will be the structure of the project:
 ### Sketches :
 
 I plan to start the story from a landing page as shown below:
+
 ![Landing Page](/Images/Sketches/LandingPage.PNG)
+
+![2](/Images/Sketches/2.PNG)
+
+![3](/Images/Sketches/2.PNG)
+
+![4](/Images/Sketches/2.PNG)
+
+![5](/Images/Sketches/2.PNG)
 
 ### Data :
 I plan on using the following data:
