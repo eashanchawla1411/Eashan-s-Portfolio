@@ -30,13 +30,13 @@ I plan to start the story from a landing page as shown below:
 
 ![Landing Page](/Images/Sketches/LandingPage.PNG)
 
-![2](/Images/Sketches/2.PNG)
+![2](/Images/Sketches/2.jpg)
 
-![3](/Images/Sketches/2.PNG)
+![3](/Images/Sketches/2.jpg)
 
-![4](/Images/Sketches/2.PNG)
+![4](/Images/Sketches/2.jpg)
 
-![5](/Images/Sketches/2.PNG)
+![5](/Images/Sketches/2.jpg)
 
 ### Data :
 I plan on using the following data:
