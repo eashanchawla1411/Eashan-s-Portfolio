@@ -20,6 +20,8 @@ Here's where all my cool visualizations will go. Click on the assignment you wan
 
 #### 1. [Assignment 2](dataviz2.md)
 #### 2. [Assignment 3](dataviz3.md)
+#### 3. [Final Project](FinalProject.md)
+
 
 ## Go back to main page
 Click [here](README.md) to back to the home page of my portfolio.
