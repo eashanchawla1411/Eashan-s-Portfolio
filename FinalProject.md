@@ -6,7 +6,9 @@
 **High Level Summary of the Project:**
 In 2019, article 370 was repealed in Kashmir, that gave Kashmir special powers like having it's own flag, it's own constitution. This gave the Indian central government more control over Jammu & Kashmir (a highly disputed region between India and Pakistan). With this project, I hope to explain the article, and the impact of it's abrogation on the people of Kashmir, by addressing impact on Economy, Stress and Psychological Conditions, Education etc. 
 
-The call to action here would be 
+The call to action here would be the direction to donate in the following ways:
+1. https://pennyappeal.org/appeal/feed-our-world/feed-kashmir
+2. https://www.crisisaid.org.uk/appeals/kashmir/
 
 **Project Structure / Story Arc:**
 Following will be the structure of the project: 
