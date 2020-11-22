@@ -30,13 +30,35 @@ I plan to start the story from a landing page as shown below:
 
 ![Landing Page](/Images/Sketches/LandingPage.PNG)
 
+**Note: Each of the images below contain multiple pages into 1 sheet**
+
 ![2](/Images/Sketches/2.jpg)
+
+The image above has the following pages:
+1. A timeline/history of Jammu and Kashmir, right from the partition of India to the abrogation of Article 370. This will be a 'scrollimation' (as called in short hand), with text and images that keep changing as we scroll down. 
+2. The second page will talk briefly about article 370 and the special powers it gave the state of J&K, like the ability to have it's own constitution. 
+3. The third page will talk about the events leading upto the abrogation of article 370. 
 
 ![3](/Images/Sketches/2.jpg)
 
+The image above has the following pages:
+1. Potential positives of the abrogation
+2. Potential drawbacks of the abrogation ( the biggest one being that the will of the people of J&K has not been considered to date.)
+3. Communications blockade: Statistics/Graph comparing the internet shutdowns in India and how J&K has suffered from the most shutdowns. 
+
 ![4](/Images/Sketches/2.jpg)
 
+The image above has the following pages:
+1. The impact of the abrogation on Unemployment (in the form of graphs comparing J&K with other states and the country average). 
+2. Economic impact of the abrogation. (in the form of visuals)
+3. Impact on Mental Health (images/visuals showing the impact on mental health)
+4. Impact on education (images/visuals/statistics to show how education has been impacted due to the presence of just 2G internet, in a day and age where we all enjoy 4G and high internet speeds. 
+
 ![5](/Images/Sketches/2.jpg)
+
+The image above shows the following page:
+1. The conclusion page or the call to action. This will contain the links to NGO's mentioned in the previous section. Readers will be able to go to their pages to donate and help the people of Jammu and Kashmir. 
+
 
 ### Data :
 I plan on using the following data:
