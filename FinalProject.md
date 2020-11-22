@@ -26,6 +26,9 @@ Following will be the structure of the project:
 
 ### Sketches :
 
+I plan to start the story from a landing page as shown below:
+![Landing Page](/Images/Sketches/Landing Page.PNG)
+
 ### Data :
 I plan on using the following data:
 1. Unemployment : https://unemploymentinindia.cmie.com/kommon/bin/sr.php?kall=wtabnav&tab=4020
