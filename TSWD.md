@@ -20,7 +20,8 @@ Here's where all my cool visualizations will go. Click on the assignment you wan
 
 #### 1. [Assignment 2](dataviz2.md)
 #### 2. [Assignment 3](dataviz3.md)
-#### 3. [Final Project](FinalProject.md)
+#### 3. [Final Project Part 1](FinalProject.md)
+#### 4. [Final Project Part 2](FinalProjectPt2.md)
 
 
 ## Go back to main page
