@@ -89,3 +89,6 @@ I also plan to refer to the following articles to make explainations / present i
 I plan on using shorthand for the purposes of this project. I plan to use all the articles that I have highlighted in the section above to add pictures and statistics about the conditions in Kashmir. 
 
 This will serve as a good place with information and images that educate people about what the people of Jammu & Kashmir go through every day. Through the call to action (highlighted above), the users will also be able to contribute to the cause. 
+
+#### [Final Project Part 2](FinalProjectPt2.md)
+#### [Back](TSWD.md)
