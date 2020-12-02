@@ -1,14 +1,13 @@
 # Telling Stories with Data Final Project Part 2
 
-### [Kashmir: A 'state' behind bars.](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)
+### Link to the project: [Kashmir: A 'state' behind bars.](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)
 
 ### User Research Protocol
 ---
 #### A. Target Audience
-| Audience      | Description |
-| ----------- | ----------- |
-| Target Audience      | People outside of Kashmir that could be educated about the problems faced by the people of Jammu and Kashmir.      |
-| Sample   | 3 Indian students at Carnegie Mellon University.        |
+
+1. Target Audience: People outside of Kashmir that could be educated about the problems faced by the people of Jammu and Kashmir.
+2. Sample: 3 Indian students at Carnegie Mellon University.
 
 #### B. Identification of Representative Individuals to Interview
 India and Pakistan are 2 countries that are ranked 142 and 145 respectively in the world press freedom rankings among 180 countries in the world. In such countries, the governments have a lot of control over what the media can / cannot present to the people. Therefore, my target audience for the purposes of this project would be the citizens of India and Pakistan. 
@@ -16,9 +15,7 @@ India and Pakistan are 2 countries that are ranked 142 and 145 respectively in t
 In addition to that, I would want the project to be simple enough so that anyone, who is not aware of the problems faced by the people of Kashmir and how it has impacted them, to be able to understand it after going through it once. 
 
 Based on the circle of people that I know, I selected the following users to show my work to:
-|Sample Selected |
-| ----------- | 
-|3 Indian Citizens (2 Male, 1 Female)|
+Sample Selected: 3 Indian Citizens (2 Male, 1 Female)
 
 #### C. Interview script 
 
