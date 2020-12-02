@@ -16,11 +16,29 @@ Based on the circle of people that I know, I selected the following users to sho
 |Sample Selected |
 | ----------- | 
 |2 American Citizens (1 Male, 1 Female)|
-|2 Indian Citizens (1 Male, 1 Female)|
-|1 Pakistani Citizen (1 Male)|
+|2 Indian Citizens (2 Male)|
 
 #### C. Interview script 
 
+**Part 1**
+Brief introduction – share your name. 
+
+Very brief discussion of the purpose of today’s test: “My goal today is to get feedback on a project I am working on and have created a website for. I’m talking to people to see what makes sense and what’s confusing. All feedback is anonymous, and the test should take less than 10 minutes of your time.”
+
+“Please remember when I say ‘test’ I mean I’m testing the prototype of my website and if it is clear or not. There are no wrong answers for you!”
+
+**Main Section**
+Ask: What’s your job? What do you do?
+
+"I've sent a link to the published prototype in our zoom chat. I would request you to share your screen, so we can discuss as you navigate the website. Please feel free to stop and notify me if there's somethign that you find confusing. Let me know if there's something that makes sense to you and that you'd like more information about. I would encourage you to focus on the message and the overall design of the website, rather than the issues that currently persist with the size of the graphs in the website."
+
+As they work through the website: Ask follow-up questions as necessary, encourage them to follow their own process (i.e. it’s fine for them to do one read-through), and respond to any questions with further discussion.
+1. "OK. First of all, can you tell me (in your own words) what you think this site is for?"
+2. "Who do you think the intended audience is for the site?" or "Who do you think this site is for?"
+3. "What other questions do you have about this site, if any?"
+
+**Wrap Up**
+“Thank you so much for your time. Do you have any questions for me?”
 
 #### D. Findings from the interviews
 
