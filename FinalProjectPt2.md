@@ -43,7 +43,7 @@ As they work through the website: Ask follow-up questions as necessary, encourag
 
 I interviewed 3 users (User 1, User 2, User 3). The findings for each user is as given below:
 
-##### User 1:
+#### User 1:
 
 **Negatives**
 1. Images don't correspond the timeline shown at the beginning of the page. 
@@ -55,7 +55,7 @@ I interviewed 3 users (User 1, User 2, User 3). The findings for each user is as
 1. The story is clear and understandable with an intention to show a timeline of the problem, which helps people who aren't aware of the problem understand it. 
 2. Good color scheme, and use of graphs to drive home points. 
 
-##### User 1:
+#### User 2:
 
 **Negatives**
 1. For the statistic showing the amount lost in the first 120 days of the abrogation, it would be better to show 2 billion instead of the larger number 2,000,000,000 etc.
@@ -68,7 +68,7 @@ I interviewed 3 users (User 1, User 2, User 3). The findings for each user is as
 2. Images do a good job providing context with the timeline. They could be aligned better. 
 3. Graphs are clean and clear. 
 
-##### User 3:
+#### User 3:
 
 **Negatives**
 1. The first point in the timeline of 1947 has too much text in it. 
