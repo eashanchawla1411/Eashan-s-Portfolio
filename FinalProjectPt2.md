@@ -106,6 +106,8 @@ I interviewed 3 users (User 1, User 2, User 3). The findings for each user is as
 
 
 **Click [here](FinalProject.md) to go to the page for part 1 of the project.**
+
 **Click [here](TSWD.md) to go back to the Telling Stories with data page.**
+
 **Click [here](README.md) to go back to the main Portfolio page.**
 
