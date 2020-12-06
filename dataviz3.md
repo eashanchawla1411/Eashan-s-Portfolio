@@ -2,6 +2,8 @@
 
 **Please note: Scroll to the end of the page to view my redesign of the visual shown below.**
 
+### Introduction
+
 I decided to critique and redesign the visual on the following link: [Dropout Rate in India](https://data.gov.in/major-indicator/drop-out-rate)
 
 I chose this visual because I feel that education is one of the most important factors that decide the success of a country / people in the country. Education is one of the most basic and important rights and every human has a right to education. Despite this, there is a high amount of illiteracy in a heavily populated country such as India. Redesigning this visual in a way that lawmakers can make better decisions would help the general public and citizens of India.
@@ -59,4 +61,5 @@ My dashboard is attached below:
 
 <iframe src="https://public.tableau.com/views/Final_16056461134900/Dashboard1?:showVizHome=no&:embed=true" width="90%" height="1200" seamless frameborder="0" scrolling="no"></iframe>
 
-##### [Back](TSWD.md)
+##### [Back to the Telling Stories with Data page](TSWD.md)
+##### [Back to the main Portfolio page](README.md)
