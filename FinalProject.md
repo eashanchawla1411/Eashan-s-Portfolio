@@ -91,5 +91,6 @@ I plan on using shorthand for the purposes of this project. I plan to use all th
 This will serve as a good place with information and images that educate people about what the people of Jammu & Kashmir go through every day. Through the call to action (highlighted above), the users will also be able to contribute to the cause. 
 
 #### [Final Project Part 2](FinalProjectPt2.md)
+#### [Final Project Part 3](FinalProjectPt3.md)
 #### [Back to the Telling Stories with data page](TSWD.md)
 #### [Back to the main Portfolio page](README.md)
