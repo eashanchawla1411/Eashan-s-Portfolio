@@ -35,10 +35,14 @@ An important design decision I made was that of using a background of black colo
 I made sure that I showed the data the way it is i.e. I did not manipulate the data /charts in order to make a point. In addition to this, I also realized that I could tell a better story if I were to add a personal touch or the story of a person who was actually impacted by the changes in Jammu Kashmir i.e. what happened with Bashir Ahmed. 
 
 
+**Click [here](FinalProject.md) to go to part 1 of the project.**
+
+**Click [here](FinalProjectPt2.md) to go to part 2 of the project.**
+
+**Click [here](FinalProjectPt3.md) to go to part 3 of the project.**
 
 **Click [here](TSWD.md) to go back to the Telling Stories with data page.**
 
 **Click [here](README.md) to go back to the main Portfolio page.**
 
 **Link to the project: [Kashmir: A 'state' behind bars.](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)**
-
