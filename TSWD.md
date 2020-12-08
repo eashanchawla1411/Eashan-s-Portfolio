@@ -22,7 +22,8 @@ Here's where all my cool visualizations will go. Click on the assignment you wan
 #### 2. [Assignment 3](dataviz3.md)
 #### 3. [Final Project Part 1](FinalProject.md)
 #### 4. [Final Project Part 2](FinalProjectPt2.md)
-#### 5. [Final Project Link](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)
+#### 5. [Final Project Part 3](FinalProjectPt3.md)
+#### 6. [Final Project Link](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)
 
 ## Go back to main page
 Click [here](README.md) to back to the home page of my portfolio.
