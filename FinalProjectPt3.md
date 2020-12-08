@@ -39,8 +39,6 @@ I made sure that I showed the data the way it is i.e. I did not manipulate the d
 
 **Click [here](FinalProjectPt2.md) to go to part 2 of the project.**
 
-**Click [here](FinalProjectPt3.md) to go to part 3 of the project.**
-
 **Click [here](TSWD.md) to go back to the Telling Stories with data page.**
 
 **Click [here](README.md) to go back to the main Portfolio page.**
