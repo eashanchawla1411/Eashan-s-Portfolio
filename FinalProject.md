@@ -94,3 +94,4 @@ This will serve as a good place with information and images that educate people 
 #### [Final Project Part 3](FinalProjectPt3.md)
 #### [Back to the Telling Stories with data page](TSWD.md)
 #### [Back to the main Portfolio page](README.md)
+#### Link to the project: [Kashmir: A 'state' behind bars.](https://carnegiemellon.shorthandstories.com/kashmir--a--state--behind-bars/index.html)
